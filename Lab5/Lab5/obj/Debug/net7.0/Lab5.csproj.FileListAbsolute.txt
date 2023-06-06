@@ -1,0 +1,15 @@
+/home/ansel/repos/MatkovLabs/Lab5/bin/Debug/net7.0/Lab5
+/home/ansel/repos/MatkovLabs/Lab5/bin/Debug/net7.0/Lab5.deps.json
+/home/ansel/repos/MatkovLabs/Lab5/bin/Debug/net7.0/Lab5.runtimeconfig.json
+/home/ansel/repos/MatkovLabs/Lab5/bin/Debug/net7.0/Lab5.dll
+/home/ansel/repos/MatkovLabs/Lab5/bin/Debug/net7.0/Lab5.pdb
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/Lab5.csproj.AssemblyReference.cache
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/Lab5.GeneratedMSBuildEditorConfig.editorconfig
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/Lab5.AssemblyInfoInputs.cache
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/Lab5.AssemblyInfo.cs
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/Lab5.csproj.CoreCompileInputs.cache
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/Lab5.dll
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/refint/Lab5.dll
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/Lab5.pdb
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/Lab5.genruntimeconfig.cache
+/home/ansel/repos/MatkovLabs/Lab5/obj/Debug/net7.0/ref/Lab5.dll

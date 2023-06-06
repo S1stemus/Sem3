@@ -1,0 +1,7 @@
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba9\Laba9\bin\Debug\Laba9.exe.config
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba9\Laba9\bin\Debug\Laba9.exe
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba9\Laba9\bin\Debug\Laba9.pdb
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba9\Laba9\obj\Debug\Laba9.csproj.AssemblyReference.cache
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba9\Laba9\obj\Debug\Laba9.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba9\Laba9\obj\Debug\Laba9.exe
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba9\Laba9\obj\Debug\Laba9.pdb

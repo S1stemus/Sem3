@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba6", "Laba6\Laba6.csproj", "{F9D4AD89-BDD8-4435-A855-32B8F003DC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{DAE7DECE-4314-4E2B-AF5E-B0AA16F6241D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D4AD89-BDD8-4435-A855-32B8F003DC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D4AD89-BDD8-4435-A855-32B8F003DC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D4AD89-BDD8-4435-A855-32B8F003DC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D4AD89-BDD8-4435-A855-32B8F003DC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE7DECE-4314-4E2B-AF5E-B0AA16F6241D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE7DECE-4314-4E2B-AF5E-B0AA16F6241D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE7DECE-4314-4E2B-AF5E-B0AA16F6241D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE7DECE-4314-4E2B-AF5E-B0AA16F6241D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7BAE9F2-5CB2-4489-BC3E-AB874960E00D}
+	EndGlobalSection
+EndGlobal

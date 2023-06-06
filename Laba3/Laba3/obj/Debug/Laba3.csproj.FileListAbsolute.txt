@@ -1,0 +1,7 @@
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba3\Laba3\bin\Debug\Laba3.exe.config
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba3\Laba3\bin\Debug\Laba3.exe
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba3\Laba3\bin\Debug\Laba3.pdb
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba3\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba3\Laba3\obj\Debug\Laba3.exe
+D:\2 курс\1 семак\Мальков\Лабы 1-10\Laba3\Laba3\obj\Debug\Laba3.pdb
